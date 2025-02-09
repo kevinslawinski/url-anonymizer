@@ -12,5 +12,8 @@
   },
   "omnibox": {
     "keyword": "anon"
+  },
+  "background": {
+    "service_worker": "src/service_worker.js"
   }
 }
